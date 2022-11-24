@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+    background-color: rgb(6, 97, 82);
+    color: rgb(255, 208, 0);
+}
+
+#temp-box {
+    width: 25%;
+    text-align: center;
+    padding: 5px;
+    font-weight: 700;
+    font-size: larger;
+    border-radius: 20px;
+    border-color: rgb(229, 255, 0);
+    color: rgb(255, 217, 0);
+    background-color: rgb(226, 2, 255);
+}
+
+button {
+    padding: 5px;
+    width: 20%;
+    border-radius: 20px;
+    border-color: rgb(214, 126, 10);
+    background-color: aqua;
+    color: blue;
+}
