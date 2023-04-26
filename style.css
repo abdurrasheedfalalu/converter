@@ -12,6 +12,7 @@ body {
     font-size: larger;
     border-radius: 20px;
     border-color: rgb(229, 255, 0);
+    outline: none;
     color: rgb(255, 217, 0);
     background-color: rgb(226, 2, 255);
 }
