@@ -16,12 +16,12 @@ function converter () {
     if (celcius.checked) {
         temp = Number(temp);
         temp = toCelcius(temp)
-        show.textContent = temp + '°C'
+        show.textContent = temp + '°c'
 
     }else if (fahrenheit.checked) {
         temp = Number(temp);
         temp = toFahrenheit(temp)
-        show.textContent = temp + '°C'
+        show.textContent = temp + '°f'
     
     }else if (temp == '' || temp == null){
         show.textContent = 'Please enter a unit.'
